@@ -50,26 +50,6 @@
 
 ---
 
-## 📊 Live Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&bg_color=050816&title_color=00E5FF&icon_color=7C4DFF&text_color=F8FAFC&border_color=00E5FF&hide_border=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&bg_color=050816&title_color=00E5FF&text_color=F8FAFC&border_color=00E5FF&hide_border=false" width="35%"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=react&background=050816&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF&border=00E5FF" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=050816&color=00E5FF&line=7C4DFF&point=F8FAFC&hide_border=true" width="90%"/>
-
-</div>
-
-<!--
-WakaTime (needs a WakaTime account and this badge added to your WakaTime README section):
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=react&bg_color=050816&title_color=00E5FF&text_color=F8FAFC&border_color=00E5FF" width="70%"/>
--->
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -92,19 +72,6 @@ TensorFlow  ███████░░░ 75%
 ```
 
 ---
-
-## 🎯 AI Skills Radar
-
-<div align="center">
-
-<img src="https://raw.githack.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/skills-radar.svg" width="380" alt="Skills radar — replace with your generated radar chart (see note below)"/>
-
-</div>
-
-> Generate this with [Chart.js radar via QuickChart](https://quickchart.io/): e.g.
-> `https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','ML','Web','Cloud','Backend','Robotics'],datasets:[{label:'Skills',data:[9,8,7,6,7,8],backgroundColor:'rgba(0,229,255,0.3)',borderColor:'#00E5FF'}]},options:{scales:{r:{grid:{color:'#7C4DFF'}}}}}&backgroundColor=%23050816`
-> Drop that URL directly as an `<img>` — no hosting needed.
-
 ---
 
 ## 🚀 Featured Projects
@@ -184,7 +151,6 @@ Future ─▶ AGI-adjacent research & AI-native products
 
 - 🏆 Robotics
 - 🏆 AI Projects
-- 🏆 Hackathons
 - 🏆 Open Source Contributions
 - 🏆 Research
 
@@ -195,42 +161,7 @@ Future ─▶ AGI-adjacent research & AI-native products
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-> Requires a GitHub Action. Create `.github/workflows/snake.yml` with:
-> ```yaml
-> name: generate animation
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch:
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: YOUR_USERNAME
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
 
 ## 💬 Dynamic Quote
 
@@ -240,38 +171,8 @@ Future ─▶ AGI-adjacent research & AI-native products
 
 </div>
 
----
 
-## 🎧 Now Playing
 
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=050816&interchange=false&bar_color=00E5FF&bar_color_cover=false" width="60%"/>
-
-</div>
-
-> Set up via [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) — needs a one-time OAuth link to your Spotify account.
-
----
-
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Blog auto-update via [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — add the Action and it fills this list automatically.
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📟 Contact Terminal
-
-```
-$ contact --list
-
-  email      → YOUR_EMAIL@example.com
-  linkedin   → linkedin.com/in/YOUR_LINKEDIN
-  instagram  → instagram.com/YOUR_INSTAGRAM
-  portfolio  → your-portfolio-link.com
-  resume     → your-resume-link.com
-```
 
 <!--
 Easter egg idea (needs a bit of JS, so best implemented on your linked
@@ -280,7 +181,6 @@ portfolio site rather than the static README): typing "sudo future" reveals
 your portfolio site instead — happy to build that if you want.
 -->
 
----
 
 <div align="center">
 
